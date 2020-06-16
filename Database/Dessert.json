@@ -1,0 +1,60 @@
+{
+    "_id" : ObjectId("5e91913acaa2ff00a799da50"),
+    "Recipe" : "Berry and Coconut Christmas Trifle",
+    "Type" : "Dessert",
+    "ingredients" : [
+    "4 x 400ml cans coconut cream",
+"3 x 85g packets raspberry jelly crystals",
+"250g strawberries, hulled, halved, plus extra, unhulled, halved, to serve",
+"125g raspberries, plus extra to serve",
+"12 egg yolks",
+"1/3 cup cornflour",
+"1 cup caster sugar",
+"3 teaspoons vanilla extract",
+"1/2 cup strawberry jam",
+"1/2 cup raspberry cranberry juice",
+"Shredded coconut, toasted, to serve",
+"VANILLA BUTTERCAKE",
+"125g unsalted butter, softened ",
+"1 cup caster sugar",
+"2 teaspoons vanilla extract",
+"3 eggs",
+"1 1/2 cups self-raising flour",
+"1/2 cup milk"
+  ],
+    "Method" : [
+       "STEP 1: Prepare jelly following packet directions. Pour into a 14cm-deep, 20cm round (16-cup-capacity) trifle bowl. Cover with plastic wrap. Refrigerate for 2 hours or until just beginning to set (mixture should have a thick, syrupy consistency). Scoop the thick top layer of coconut cream from each can and place in a bowl (about 2/3 cup from each can). Cover with plastic wrap. Refrigerate.",
+       "&nbsp;",
+       "STEP2: Place remaining coconut cream (about 4 cups) in a large saucepan over low heat. Bring to a simmer. Remove from heat. Using an electric mixer, beat egg yolks, cornflour, 2/3 cup sugar and 2 teaspoons vanilla in a bowl until thick and creamy. Gradually whisk in hot coconut cream. Return to saucepan. Cook, stirring constantly, over medium-low heat for 4 to 5 minutes.",
+       "&nbsp;",
+       "STEP3:, make Vanilla Buttercake: Preheat oven to 180C/160C fan-forced. Grease a 6cm-deep, 22cm round cake pan. Line base and side with baking paper. Using an electric mixer, beat butter, sugar and vanilla for 5 minutes or until light and fluffy. Add eggs, 1 at a time, beating until just combined after each addition. Add flour and milk, in 2 batches, beating until just combined after each addition. Spoon mixture into prepared pan. Level top with a spatula. Bake for 40 to 45 minutes",
+       "&nbsp;",
+       "STEP4:poon 1/2 the custard over jelly. Spread to level. Level top of cake. Trim edge of cake to fit snugly into trifle bowl. Split horizontally. Sandwich together with jam. Place cake over custard. Drizzle with cranberry and raspberry juice. Using an electric mixer, beat reserved coconut cream with remaining sugar and vanilla for 2 to 3 minutes or until soft peaks form. Spoon coconut mixture over custard. Top with toasted coconut and extra strawberries and raspberries. Serve. "
+    ],
+}
+
+{
+    "_id" : ObjectId("5e91913acaa2ff00a799da51"),
+    "Recipe" : "Papaya and Coconut Cupcakes",
+    "Type" : "Dessert",
+    "ingredients" : [
+    "125g butter, chopped, at room temperature",
+"3/4 cup caster sugar",
+"1 teaspoon coconut essence",
+"2 eggs",
+"1 1/4 cup self-raising flour, sifted",
+"1/2 cup desiccated coconut",
+"1/3 cup buttermilk",
+"1 cup papaya, diced",
+"90g butter, chopped, at room temperature ",
+"1 cup icing sugar, sifted",
+"2 tablespoons milk",
+"1/4 cup desiccated coconut, lightly toasted",
+  ],
+    "Method" : [
+       "STEP 1: Preheat oven to 180C. Line a 12-hole muffin pan with paper patty cases. In a bowl using an electric mixer, cream butter, sugar and essence together until light and creamy. Add eggs one at a time, beating well after each addition.",
+       "&nbsp;",
+       "STEP2: Fold in flour, coconut and buttermilk. Lightly mix papaya through. Spoon mixture evenly into prepared pan until 2/3 full. Bake for 20-25 mins, until cooked when tested with a skewer. Cool in pan for 5 mins before transferring to a wire rack to cool completely.",
+       "&nbsp;",
+       "STEP3: Coconut Icing: In a bowl, cream butter until pale. Beat in icing sugar, then milk. Spread over cold cakes. Top with coconut." ],
+}

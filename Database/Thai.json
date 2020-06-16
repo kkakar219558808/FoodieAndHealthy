@@ -1,0 +1,79 @@
+{
+    "_id" : ObjectId("5e91913acaa2ff00a799dac1"),
+    "Recipe" : "Pad Prik king",
+    "Type" : "Thai",
+    "ingredients" : [
+    "8 large dried New Mexico chiles",
+    "2 shallots, coarsely chopped and 1/2 14-ounce package extra-firm tofu",
+    "8 garlic cloves, coarsely chopped",
+    "1.1-inch piece lemongrass, tough outer layers removed, chopped",
+    "1 tablespoon chopped cilantro stems",
+    "1/2 teaspoon black peppercorns, crushed and kosher salt",
+    "2 tablespoons vegetable oil",
+    "1 pound green beans, trimmed",
+    "2 tablespoons fish sauce (nam pla or nuoc nam)",
+    "1 tablespoon sugar",
+    "Cooked white or brown jasmine rice (for serving)"
+  ],
+   "Method" : [
+       "STEP 1: Bring chiles and two and 1/2 cups cold water to a boil in a small saucepan. Remove from heat, cover; let soften, 30 minutes. Meanwhile, lay a clean kitchen towel or a double layer of paper towels on a large plate. Place tofu on top and cover with another towel or double layer of towels. Cover with another plate and weigh down with something heavy. Let sit 30 minutes, then cut into 3/4 pieces.",
+       "&nbsp;",
+       "STEP2: Drain chiles, reserving soaking liquid. Tear chiles open and remove seeds; discard. Blend chiles, shallots, garlic, lemongrass, galangal, cilantro stems, kaffir lime zest (if using), salt, peppercorns, half of kaffir lime leaves (if using), and ½ cup reserved soaking liquid in a blender, scraping down sides and adding more soaking liquid as needed, until a rough paste forms. Set curry paste aside.",
+       "&nbsp;",
+       "STEP3: Heat oil in a large skillet over medium-high and cook tofu until browned on all sides, about 5 minutes total. Add green beans and ½ cup reserved curry paste and cook, tossing occasionally, until beans are coated and beginning to soften, about 3 minutes. Add ½ cup reserved soaking liquid, cover skillet, and cook until beans are cooked through and liquid is reduced by half, about 5 minutes. Stir in fish sauce, sugar, and remaining kaffir lime leaves and cook until fragrant, 1 minute. Serve over rice." ],
+}
+
+
+
+{
+    "_id" : ObjectId("5e91913acaa2ff00a799dac2"),
+     "Recipe" : "Crispy Thai chicken salad",
+    "Type" : "Thai",
+    "ingredients" : [
+    "1/2 medium red onion, thinly sliced, Salt",
+    "Shredded rotisserie chicken breast meat, skin removed (or save skin for Chicken Stew",
+    "1/2 cup dried sour cherries",
+    "1/4 cup fish sauce",
+    "1 teaspoon finely grated lime zest",
+    "1/4 cup fresh lime juice",
+    "1 Granny Smith apple, cut into matchsticks",
+    "1 cup parsley leaves with tender stems",
+    "Freshly ground black pepper",
+    "Cooked long-grain white rice (for serving)"
+  ],
+   "Method" : [
+       "STEP 1: A half a cup of olive oil may seem like whoa, too much, but that's the key to crisping up the chicken. No matter how tempting, and we know you'll be tempted, you cannot stir, toss, agitate, poke, whatever the chicken in any way, or it won't crisp, and you'll just end up with shredded cooked chicken. Which is totes fine, but this version is so much more fun and flavorful.",
+       "&nbsp;",
+       "STEP2: Toss onion, 2 tsp. salt, and 2 cups water in a medium bowl. Let sit at room temperature until ready to use.Heat oil in a medium nonstick skillet over high until oil shimmers. Cook chicken, undisturbed, until golden brown on 1 side, about 3 minutes. Carefully turn and cook until golden brown, about 3 minutes. Transfer chicken and oil to a large heatproof bowl. Add cherries, fish sauce, and lime juice and toss to combine. Let cool.",
+       "&nbsp;",
+       "STEP3: Drain onion; rinse and drain again. Add onion, apple, parsley, peanuts, and lime zest to chicken mixture and toss to combine; season with salt and pepper. Serve with rice alongside." ],
+    
+}
+
+{
+    "_id" : ObjectId("5e91913acaa2ff00a799dac3"),
+    "Recipe" : "Red Curry Mussels",
+    "Type" : "Thai",
+    "ingredients" : [
+    "1 13.5-oz. can coconut milk",
+    "1 cup canned crushed tomatoes",
+    "1/2 cup dry white wine",
+    "1 tablespoon Thai red curry paste",
+    "4 tablespoons chopped fresh basil, divided",
+    "½ medium red onion, thinly sliced",
+    "1 carrot, peeled, julienned",
+    "1 celery stalk, thinly sliced on a diagonal",
+    "Kosher salt and freshly ground black pepper",
+    "2 pounds mussels, scrubbed, debearded",
+    "2 tablespoons chopped fresh flat-leaf parsley",
+    "Toasted country-style bread (for serving)",
+  ],
+    "Method" : [
+       "STEP 1: Bring coconut milk, tomatoes, wine, curry paste, and 2 Tbsp. basil to a boil in a Dutch oven or other large pot, stirring to incorporate curry paste. Reduce heat and add onion, carrot, and celery; season with salt and pepper.",
+       "&nbsp;",
+       "STEP2: Bring liquid to a simmer, cover pot, and cook until vegetables are crisp-tender, about 4 minutes. Using a slotted spoon, transfer vegetables to a medium bowl and set aside.",
+       "&nbsp;",
+       "STEP3: Return liquid in pot to a simmer. Add mussels to pot, cover, and cook, shaking pot occasionally, until shells open (discard any mussels that do not open), about 4 minutes.Divide mussels and cooking liquid among bowls, top with reserved vegetables, parsley, and remaining 2 Tbsp. basil, and serve with bread alongside." ],
+    
+}
+

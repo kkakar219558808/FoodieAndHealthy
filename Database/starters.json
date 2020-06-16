@@ -1,0 +1,64 @@
+{
+    "_id" : ObjectId("5e91913acaa2ff00a799dac6"),
+    "Recipe" : "Zucchini and goat’s cheese tartlets",
+    "Type" : "Starters",
+    "ingredients" : [
+    "2 sheets frozen puff pastry, just thawed",
+    "3 large zucchini, thinly sliced crossways",
+    "100g goat’s cheese, crumbled",
+    "1/4 cup (20g) finely grated parmesan",
+    "6 ounces bittersweet chocolate, chopped fine",
+  ],
+   "Method" : [
+       "STEP 1: Preheat oven to 200°C. Lightly grease 6 holes of a 1/3-cup (80ml) muffin pan. Use a small sharp knife to cut each pastry sheet lengthways into three 6cm-wide strips.",
+       "&nbsp;",
+       "STEP2: Arrange zucchini, overlapping slightly, lengthways over one-half of the pastry. Sprinkle with a little goat’s cheese and parmesan. Season. Fold the other half of the pastry over the goat's cheese mixture to enclose. Starting from 1 short end, roll up pastry tightly. Place in one of the prepared holes.",
+       "&nbsp;",
+       "STEP3: Lightly spray the tarts with olive oil spray. Sprinkle with thyme sprigs. Bake for 25-30 mins or until pastry is golden brown and cooked through. Cool slightly. Transfer to a serving platter. Serve warm or at room temperature." ],
+}
+
+
+{
+    "_id" : ObjectId("5e91913acaa2ff00a799dac7"),
+     "Recipe" : "Prawn and chorizo gazpacho shots",
+    "Type" : "Starters",
+    "ingredients" : [
+    "24 medium green prawns, peeled, deveined",
+    "1 tablespoon extra virgin olive oil",
+    "2 garlic cloves, crushed",
+    "2 chorizo, cut into 24 slices",
+    "tablespoon finely chopped fresh flat-leaf parsley leaves",
+  ],
+  "Method" :  [
+       "STEP 1: Remove and discard seeds from 1 cucumber. Finely dice and reserve. Peel and roughly chop remaining cucumber. Place in a food processor with tomato, peppers, eschalot, mint, vinegar and oil. Season. Process for 2 minutes, scraping down sides of bowl, until smooth. Pour into a fine sieve set over a large jug. Using back of a spoon, press mixture through sieve. Discard solids. Refrigerate, covered, for 1 hour",
+       "&nbsp;",
+       "STEP2: Meanwhile, place prawns, oil and garlic in a bowl. Season with salt and pepper. Heat a large frying pan over high heat. Cook skewers for 1 minute each side or until lightly charred and just cooked through.",
+       "&nbsp;",
+       "STEP3: Pour gazpacho evenly among 24 shot glasses. Sprinkle with diced cucumber and parsley. Place a skewer in each glass. Serve."], 
+}
+
+{
+    "_id" : ObjectId("5e91913acaa2ff00a799dac8"),
+    "Recipe" : "special Indian style Paneer Tikka",
+    "Type" : "Starters",
+    "ingredients" : [
+    "500G Paneer",
+    "1 Medium sized Green capsicum ",
+    "2 Medium size Onion",
+    "2 Tomatos",
+    "1/4 Teaspoon Oil",
+    "Black Pepper, Salt, Turmeric, Chilli Powder",
+    "Pudina Chatiney, 200G Yogurt",
+    "1 Medium sized lemon",
+  ],
+    "Method" :  [
+       "STEP 1: Whisk the yogurt in a large bowl until smooth. I have used greek yogurt here, you can use regular yogurt just make sure to strain it for several hours until you have thick yogurt left and then use in the recipe. Add all the ingredients for marinade to the yogurt- ginger garlic paste, mustard oil, coriander powder, chaat masala, kashmiri red chili powder, garam masala, red chili powder, kasuri methi and salt. Whisk to combine everything together.",
+       "&nbsp;",
+       "STEP2: Add in juice of 1 lemon along with chopped cilantro and mint. Mix well.Mix until all the paneer pieces and veggies are well coated with the marinade. Cover the bowl and refrigerate for minimum for 1 hour or up to 4 hours. After 1-2 hours, take the marinated paneer and veggies out of the refrigerator. Take a skewer and arrange paneer, onion and peppers on a skewer, alternating with each other.",
+       "&nbsp;",
+       "STEP3: Arrange all the prepared skewers on a baking sheet lined with parchment paper. Spray the tikka with a oil spray. Bake at 450 F degrees for 10 minutes and then turn on the broil. Broil for 2 to 3 minutes until paneer pieces look little charred. Remove from oven, squeeze lemon juice, sprinkle chaat masala and serve with cilantro chutney."], 
+    
+}
+
+
+

@@ -1,0 +1,73 @@
+{
+    "_id" : ObjectId("5e91913acaa2ff00a799dac4"),
+    "Recipe" : "Rajma Chawal",
+    "Type" : "Indian",
+    "ingredients" : [
+    "2 cup Rajma",
+    "2 Medium sized Onion",
+    "1 Medium sized Tomatoes",
+    "1.1-inch piece lemongrass, tough outer layers removed, chopped",
+    "3 cloves of Garlic and 5g ginger",
+    "1/2 tablespoon Red chilli Powder and 1 tablespoon salt",
+    "2 tablespoons vegetable oil",
+    "2 red chilli and green chilli",
+    "2 tablespoons fish sauce (nam pla or nuoc nam)",
+    "1 tablespoon Black pepper, Garam Masala",
+    "Cooked white or brown jasmine rice (for serving)"
+  ],
+   "Method" : [
+       "STEP 1: Rinse and soak 1 cup rajma or kidney beans in enough water overnight or for 8 to 9 hours, next day discard the soaked water. Drain and rinse the soaked beans for a few times in running water again drain and add the rinsed rajma in a pressure cooker.Add 3.5 to 4 cups of water and stir. Pressure cook the rajma for 18 to 20 whistles or for about 15 to 20 minutes.",
+       "STEP2: When the rajma is cooking, you can chop 1 large onion (¾ to 1 cup finely chopped onion), 2 large tomatoes (1 cup finely chopped tomatoes) and make the crushed ginger+garlic+green chili paste. 1 inch ginger, 5 to 6 small garlic cloves or 3 to 4 medium garlic cloves & 1-2 green chilies, crushed to a paste or ground to a paste in a mortar-pestle or small grinder.",
+       "STEP3: when the pressure settles down on its own, open the lid, check if the rajma is cooked or not by taking a bite or pressing a bean. The rajma beans should be completely cooked. If they are not cooked completely, then pressure cook again adding some water if required for some minutes. Heat 3 tbsp butter or 2 tbsp butter + 1 tbsp oil in another pot or pan or kadai,  add onions, Stir and sauté them till they are caramelized or golden browned. Add the ginger-garlic-chilli paste, tomatos and stir for 5 mins. use a slotted spoon or a strainer and remove the rajma beans and add them to the masala. You can also strain the rajma first and keep it aside. Keep the stock also aside. Take 2 cups from the stock or a mixture of stock+water and add to the rajma.stir well till 20-30 mins ans then serve hot with Rice" ],
+}
+
+
+
+{
+    "_id" : ObjectId("5e91913acaa2ff00a799dac5"),
+    "Recipe" : "Pav Bhaji",
+    "Type" : "Indian",
+    "ingredients" : [
+    "1 cup chopped cauliflower, chopped carrot",
+    "3 medium sized potatoes (chopped)",
+    "1/3 cup chopped french beans",
+    "1 cup green peas (fresh or frozen)",
+    "2 to 3 tablespoons butter",
+    "1 teaspoon cumin seeds ",
+    "1 cup chopped onions",
+    "2 teaspoons ginger-garlic paste",
+    "1 to 2 green chilies (chopped), capsicum and all spices",
+    "2 cups finely chopped tomatoes"
+  ],
+   "Method" : [
+       "STEP 1: Add all the chopped vegetables and green peas in 2 litres Pressure Cooker and add 2.25 to 2.5 cups water. Pressure cook the veggies for 5 to 6 whistles or for about 12 minutes on medium flame.When the pressure settles down on its own, open the cooker and check if the veggies are cooked well. You can even steam or cook the veggies in a pan or pot. The vegetables have be to cooked completely. Keep the vegetables along with the cooked water (stock) in the cooker itself.",
+       "&nbsp;",
+       "STEP2: Heat a pan or kadai add 2 tablespoon of Butter, ginger garlic paste after it heats up, cumin seedsand onions. Mix and saute till the raw aroma of both ginger and garlic goes away. Add chillies and Tomatoes, capsicum and all masalas, stir well",
+       "&nbsp;",
+       "STEP3: Add cooked vegetables and Mix Well, to it add some water and some salt. keep the stove on for 20 mins or till the water drys off. Serve Hot." ],
+    
+}
+
+{
+    "_id" : ObjectId("5e91913acaa2ff00a799dac9"),
+    "Recipe" : "Chole Bathure",
+    "Type" : "Indian",
+    "ingredients" : [
+    "1 Medium sized chopped Onion",
+    "1 cup canned crushed tomatoes",
+    "12 tablespoon ginger-garlic Paste",
+    "1 tablespoon Salt, red chilli, Kitchen king, Garam Masala, Black Pepper",
+    "2 Green Chillies(Chopped)",
+    "2 Canned Boiled chick Peas",
+    "2 tablespoons Olive Oil",
+    "Toasted country-style bread (for serving)",
+  ],
+    "Method" : [
+       "STEP 1: Add Oil and heat it. To it add onions, green chillies, ginger-garlic paste. Stir well for 5 mind till the onion turns brown in colour. Add Tomatoes to it , stir well for 5 mins.",
+       "&nbsp;",
+       "STEP2: Add all the spices to it and keep stiring after that add the Chick peas and but some water in it.",
+       "&nbsp;",
+       "STEP3: Cover the container with lid and let it heat on low flame for about 20 mins. Remove the lid, stir well and serve hot with the bread." ],
+    
+}
+
