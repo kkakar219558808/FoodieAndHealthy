@@ -11,7 +11,7 @@ app.get('/',function(req,res){
       })
 
 var port=3000;
-app.listen(port);
+app.listen(process.env.PORT || port);
 console.log("Server listening on" +port)
 
 var mongodb = require('mongodb');
