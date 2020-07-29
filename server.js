@@ -1,5 +1,6 @@
 var express=require('express')
 var router = express.Router();
+const sendMail=require('./mailer');
 var app=express()
 const bodyParser= require('body-parser')
 app.use(bodyParser.urlencoded({extended: false}));
@@ -22,7 +23,23 @@ require('express-async-errors');
 var MongoClient = require('mongodb').MongoClient;
 var url = "mongodb://localhost:27017/";
 
+//
 
+app.post('/EmailService', (req, res) => {
+  
+    sendMail(req.body.Email_Address,function(err,data){
+        if(err) {
+            res.status(500).json({message:"innternal error"});
+        }
+        else {
+           console.log("message received!");
+    
+        }
+    });
+    res.redirect('/');
+});
+
+//
 app.get('/Thai/:refCode', (req, res) => {
    
     MongoClient.connect(url, function(err, db) {
